@@ -7,7 +7,7 @@ Students are expected to edit this module, to add more tests to run
 against the 'echo.py' program.
 """
 
-__author__ = "Areiahna Cooks"
+__author__ = "Areiahna Cooks & Demo"
 
 import sys
 import importlib
